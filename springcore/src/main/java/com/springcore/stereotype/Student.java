@@ -36,7 +36,7 @@ public void setAddress(List<String> address) {
 }
 @Override
 public String toString() {
-	return "Student [studentName=" + studentName + ", city=" + city + ", address=" + address + "]";
+return "Student [studentName=" + studentName + ", city=" + city + ", address=" + address + "]";
 }
 
 }
